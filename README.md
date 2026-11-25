@@ -16,5 +16,5 @@ Avviando il programma, Windows potrebbe mostrare l'avviso
 Per acquistare la licenza scrivi a: gestioneconcorsifiaf@gmail.com
 
 ## Condizioni d'uso
-© 2026 [Tuo nome]. Tutti i diritti riservati.
+© 2026 Roberto Fenanti. Tutti i diritti riservati.
 È vietato modificare, decompilare o ridistribuire il programma.
